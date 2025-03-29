@@ -12,6 +12,7 @@ UI: Tailwind CSS / Material-UI / Bootstrap
 API Calls: Axios / Fetch API
 Storage: Local Storage / Session Storage
 Project Structure:
+
 src/
 ├── api/         # API integration
 ├── components/  # Reusable components
